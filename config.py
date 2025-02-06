@@ -7,7 +7,7 @@ TELEGRAM_HASH = "8613f522e2ab48b81e0946262b8a6fd2"
 USER_SESSION_STRING = ""
 DOWNLOAD_DIR = "/usr/src/app/downloads/"
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = "-1002331211680 6155015997"
+AUTHORIZED_CHATS = "6155015997"
 SUDO_USERS = "6155015997"
 DATABASE_URL = "mongodb+srv://adarshmoharana027:adarshmoharana027@cluster0.jla2l.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 STATUS_LIMIT = 10
