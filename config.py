@@ -6,7 +6,7 @@ TELEGRAM_HASH = "8613f522e2ab48b81e0946262b8a6fd2"
 # OPTIONAL CONFIG
 USER_SESSION_STRING = ""
 DOWNLOAD_DIR = "/usr/src/app/downloads/"
-CMD_SUFFIX = "/"
+CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
 DATABASE_URL = "mongodb+srv://adarshmoharana027:adarshmoharana027@cluster0.jla2l.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
