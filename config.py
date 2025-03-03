@@ -11,7 +11,7 @@ AUTHORIZED_CHATS = "6155015997"
 SUDO_USERS = "6155015997"
 DATABASE_URL = "mongodb+srv://adarshmoharana027:adarshmoharana027@cluster0.jla2l.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 STATUS_LIMIT = 10
-DEFAULT_UPLOAD = "rc"
+DEFAULT_UPLOAD = "gd"
 STATUS_UPDATE_INTERVAL = 15
 FILELION_API = ""
 STREAMWISH_API = ""
@@ -25,7 +25,7 @@ FFMPEG_CMDS = {}
 GDRIVE_ID = "11LdJMHbWaZxiJ2BKJsKES9UzzmBuG1hi"
 IS_TEAM_DRIVE = True
 STOP_DUPLICATE = False
-INDEX_URL = ""
+INDEX_URL = "https://danish-bhai.adarshmoharana10.workers.dev"
 # Rclone
 RCLONE_PATH = ""
 RCLONE_FLAGS = ""
